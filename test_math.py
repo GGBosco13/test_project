@@ -31,3 +31,7 @@ def main():
         # Using an f-string for clean formatting (similar to printf)
         print(f"Number: {num:4} | Factors: {factors}")
 
+if __name__ == "__main__":
+    main()
+
+
